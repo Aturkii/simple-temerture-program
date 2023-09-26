@@ -1,0 +1,12 @@
+form {
+  display: display-content;
+  border: 2px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 50px;
+  text-align: center;
+  line-height-step: 20px;
+  background-color: rgb(184, 184, 184);
+}
